@@ -1,18 +1,34 @@
-## Hi there 👋
 <p align="center">
   <img src="./images/GitHub Banner.jpg" alt="GitHub Banner" width="100%" />
 </p>
-<!--
-**EangSambath/EangSambath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Eang Sambath</h1>
+<h3 align="center">A passionate Software Developer from Cambodia</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="ដាក់_Link_LinkedIn_របស់អ្នកនៅទីនេះ" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ដាក់_Email_របស់អ្នកនៅទីនេះ">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,php,mysql,python,vscode,github" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EangSambath&show_icons=true&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EangSambath&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Streak" height="195"/>
+</p>
