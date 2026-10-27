@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./images/githubbanner.jpg" alt="GitHub Banner" width="100%" />
+</p>
 <!--
 **EangSambath/EangSambath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
