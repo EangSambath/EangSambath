@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Software Developer from Cambodia</h3>
 
 <p align="center">
-  <a href="ដាក់_Link_LinkedIn_របស់អ្នកនៅទីនេះ" target="_blank">
+  <a href="https://www.linkedin.com/in/eang-sambath-337351446/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ដាក់_Email_របស់អ្នកនៅទីនេះ">
