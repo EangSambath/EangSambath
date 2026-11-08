@@ -53,10 +53,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EangSambath&show_icons=true&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=EangSambath&show_icons=true&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Stats" height="175" />
   <img src="https://streak-stats.demolab.com?user=EangSambath&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Streak" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EangSambath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EangSambath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
+
