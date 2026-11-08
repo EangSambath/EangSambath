@@ -29,6 +29,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EangSambath&show_icons=true&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Stats" height="195"/>
+  <img src="https://cool-mes.vercel.app/api?username=EangSambath&show_icons=true&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EangSambath&theme=tokyonight&hide_border=true" alt="Eang Sambath's GitHub Streak" height="195"/>
 </p>
